@@ -6,7 +6,8 @@ import (
 	"log"
 	"os"
 	"path/filepath"
-	photoorganizer "photo_organizer/internal/photo_organizer"
+
+	photoorganizer "github.com/rfiestas/photo_organizer/internal/photo_organizer"
 )
 
 func printHelp() {
